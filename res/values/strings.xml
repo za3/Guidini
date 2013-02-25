@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Guidini</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="events">Evénements</string>
+    <string name="plan">Plan du jour</string>
+    <string name="guide">Guide</string>
+    <string name="params">Paramètres</string>
+    <string name="centres">Centres d\'intérêt</string>
+    <string name="tools">Utilitaires</string>
+</resources>
